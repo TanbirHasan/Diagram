@@ -1,0 +1,444 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&family=Work+Sans:wght@200;300;400&display=swap');
+
+
+
+
+section {
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+}
+
+section h1 {
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+section p {
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+   
+}
+
+.inner-section {
+    margin-top: 50px;
+    position: relative;
+}
+
+section .inner-section .box-1 {
+    position: absolute;
+    height: 526px;
+    top: -20px;
+    width: 1000px;
+    border: 1px solid #E3EEF0;
+    border-radius: 355px;
+    left: 172px;
+}
+
+.box-2 {
+    position: absolute;
+    width: 880px;
+    height: 430px;
+    top: 30px;
+    left: 230px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 200px rgb(198 225 230 / 25%);
+    border-radius: 355px;
+}
+
+.box-3 {
+    position: absolute;
+    width: 600px;
+    height: 280px;
+    top: 110px;
+    left: 360px;
+
+    border: 1px dashed #008C96;
+    border-radius: 355px;
+}
+
+.box-4 {
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    left: 460px;
+    top: 165px;
+
+    border: 1px solid #D9F3F4;
+    border-radius: 355px;
+}
+.inner-box{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.6);
+    border-radius: 8px;
+    left: 105px;
+    top: 0px;
+    
+}
+
+
+.inner-box p{
+    position: absolute;
+    padding: 5px 10px 5px 20px ;
+    font-size: 12px;
+    font-weight: 400;
+}
+.payquad {
+    max-width: 80%!important;
+    position: absolute;
+    left: 17px;
+    top: 105px;
+}
+.text1 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    left: 215px;
+    top: 6px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+}
+
+.text2 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    left: 12px;
+    top: 80px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.text3 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    left: -30px;
+    top: 246px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.text4 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    left: 165px;
+    top: 312px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.text5 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    left: 345px;
+    top: 312px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.text6{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    right: -36px;
+    top: 214px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.text7 {
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 19px;
+    top: 44px;
+    right: -40px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #004750;
+
+}
+.img-1 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    left: 243px;
+    top: -70px;;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-2 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-3 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    left: -26px;
+    top: 165px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-4 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    left: 160px;
+    top: 233px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-5 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    left: 365px;
+    top: 233px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-6 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    right: -40px;
+    top: 134px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+.img-7 {
+    position: absolute;
+    width: 100px;
+    height: 81.68px;
+    right: -16px;
+    top: -40px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 90px rgba(198, 225, 230, 0.8);
+    border-radius: 10px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+@media (max-width: 575.98px) {
+    section .inner-section .box-1 {
+            position: absolute;
+            height: 526px;
+            top: -20px;
+            transform: rotate(90deg);
+            width: 1000px;
+            border: 1px solid #E3EEF0;
+            border-radius: 355px;
+            left: 172px;
+        }
+                .box-2 {
+                    position: absolute;
+                    width: 880px;
+                    height: 430px;
+                    top: 30px;
+                    transform: rotate(90deg);
+                    left: 230px;
+                    background: #FFFFFF;
+                    box-shadow: 0px 4px 200px rgb(198 225 230 / 25%);
+                    border-radius: 355px;
+                }
+
+                .box-3 {
+                    position: absolute;
+                    width: 350px;
+                    height: 651px;
+                    top: -75px;
+                    left: 492px;
+                    border: 1px dashed #008C96;
+                    border-radius: 355px;
+                }
+                        element.style {}
+            
+                        .img-1 {
+                            position: absolute;
+                            width: 100px;
+                            height: 81.68px;
+                            left: 131px;
+                            top: -70px;
+                            background: #FFFFFF;
+                            box-shadow: 0px 4px 90px rgb(198 225 230 / 80%);
+                            border-radius: 10px;
+                        }
+                                .text1 {
+                                    position: absolute;
+                                    font-family: 'Work Sans';
+                                    font-style: normal;
+                                    font-weight: 600;
+                                    font-size: 18px;
+                                    line-height: 26px;
+                                    left: 139px;
+                                    top: 6px;
+                                    text-align: center;
+                                    text-transform: capitalize;
+                                    color: #004750;
+                                }
+                                        .img-4 {
+                                            position: absolute;
+                                            width: 100px;
+                                            height: 81.68px;
+                                            left: -29px;
+                                            top: 433px;
+                                            background: #FFFFFF;
+                                            box-shadow: 0px 4px 90px rgb(198 225 230 / 80%);
+                                            border-radius: 10px;
+                                        }
+                                                        element.style {}
+                            
+                                                        .text4 {
+                                                            position: absolute;
+                                                            font-family: 'Work Sans';
+                                                            font-style: normal;
+                                                            font-weight: 600;
+                                                            font-size: 18px;
+                                                            line-height: 26px;
+                                                            left: -22px;
+                                                            top: 512px;
+                                                            text-align: center;
+                                                            text-transform: capitalize;
+                                                            color: #004750;
+                                                        }
+                                                                element.style {}
+                                
+                                                                .img-5 {
+                                                                    position: absolute;
+                                                                    width: 100px;
+                                                                    height: 81.68px;
+                                                                    left: 129px;
+                                                                    top: 605px;
+                                                                    background: #FFFFFF;
+                                                                    box-shadow: 0px 4px 90px rgb(198 225 230 / 80%);
+                                                                    border-radius: 10px;
+                                                           }
+
+
+
+
+
+
+                .text5 {
+                    position: absolute;
+                    font-family: 'Work Sans';
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 18px;
+                    line-height: 26px;
+                    left: 115px;
+                    top: 687px;
+                    text-align: center;
+                    text-transform: capitalize;
+                    color: #004750;
+                }
+               
+            
+                        .img-6 {
+                            position: absolute;
+                            width: 100px px;
+                            height: 81.68px;
+                            right: -40px;
+                            top: 434px;
+                            background: #FFFFFF;
+                            box-shadow: 0px 4px 90px rgb(198 225 230 / 80%);
+                            border-radius: 10px;
+                        }
+        .text6 {
+            position: absolute;
+            font-family: 'Work Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 26px;
+            right: -36px;
+            top: 514px;
+            text-align: center;
+            text-transform: capitalize;
+            color: #004750;
+        }
+        .text7 {
+            position: absolute;
+            font-family: 'Work Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 19px;
+            top: 98px;
+            right: -63px;
+            text-align: center;
+            text-transform: capitalize;
+            color: #004750;
+        }
+        .img-7 {
+            position: absolute;
+            width: 100px;
+            height: 81.68px;
+            right: -43px;
+            top: -4px;
+            background: #FFFFFF;
+            box-shadow: 0px 4px 90px rgb(198 225 230 / 80%);
+            border-radius: 10px;
+        }
+        .box-4 {
+            position: absolute;
+            width: 400px;
+            transform: rotate(90deg);
+            height: 170px;
+            left: 460px;
+            top: 165px;
+            border: 1px solid #D9F3F4;
+            border-radius: 355px;
+        }
+
+}
